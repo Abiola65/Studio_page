@@ -1,0 +1,452 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.gallery_1{
+    margin-top: 42px;
+    margin-left: 120px;
+    width: 1200px;
+    height: 34px;
+}
+
+.drop_down_links ul{
+    margin-top: 42px;
+    width: 645px;
+    height: 20px;
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+    margin-right: 70px;
+}
+.content{
+    display: flex;
+}
+.dot{
+    margin-left: -30px;
+    margin-top: 60px;
+    
+}
+
+
+.buttons {
+    margin-top: 30px;
+    display: flex;
+}
+
+.button_text {
+    position: absolute;
+    background-color: blue;
+    border-radius: 30px;
+    font-size: 18px;
+    color: white;
+    width: 175px;
+    height: 40px;
+
+}
+.button_text h3{
+    margin-top: 8px;
+    margin-left: 30px;
+}
+
+.text-content{
+    margin-left: 120px;
+    width: 471px;
+    height: 265px;
+    margin-top: 139px;
+    border-radius: 60px;
+    border: 1px;
+}
+.text-content h1{
+    font-size: 40px;
+    line-height: 49.44px;
+}
+.text-content p{
+    margin-top: 30px;
+}
+.circle{
+    margin-top: 14px;
+    margin-left: -730px;
+}
+.content-2{
+    display: flex;
+}
+.pic-1{
+    position: absolute;
+    left: 651px;
+    width: 715px;
+    margin-top: 16px;
+}
+/* ............................................... */
+/* .................................................. */
+
+
+.body-container-2{
+    margin-top: 500px;
+}
+.heading{
+    display: flex;
+}
+.text-content {
+    margin-top: 42px;
+    margin-left: 120px;
+    width: 1200px;
+    height: 34px;
+}
+.text-content p{
+    margin-top: 15px;
+}
+.symbols{
+    margin-top: 42px;
+    height: 30px;
+    display: flex;
+    gap: 4rem;
+    margin-left: -620px;
+    margin-top: 80px;
+}
+
+
+
+.picture h2{
+    position: absolute;
+    top: 1250px;
+    left: 148px;
+    font-size: 43px;
+}
+.picture p{
+    position: absolute;
+    left: 60px;
+}
+
+.notes {
+    margin-left: 100px;
+    display: flex;
+
+}
+
+.img{
+    margin-top:300px;
+   width:920px; 
+}
+
+.picture{
+    white-space: nowrap;
+    margin-top:350px;
+}
+
+.photo{
+    margin-left: 100px;
+}
+.picture h1{
+    margin-left: 80px;
+}
+.picture p{
+    display: flex;
+    margin-left: 80px;
+}
+.paragraph{
+    display: flex;
+}
+.large-rec{
+    margin-top: 150px;
+    width: 950px;
+    margin-left: 120px;
+}
+
+.box-1{
+   position: absolute;
+   left: 500px;
+   margin-top: 50px;
+}
+
+.image-2{
+    position: absolute;
+    left: 900px;
+    top: 830px;
+}
+.image-3{
+    position: absolute;
+    left: 500px;
+    top: 1280px;
+}
+
+.image-4{
+    position: absolute;
+    left: 900px;
+    top: 1240px;
+}
+.image-5{
+    margin-left: 900px;
+    margin-bottom: 100px;
+}
+.image-6{
+    position: relative;
+    margin-left: -150px;
+    bottom:300px;
+}
+
+/* .......................................... */
+/* .......................................... */
+
+.body-container-3{
+    display: flex;
+}
+.based-content{
+    margin-top: 50px;
+}
+.frame-3{
+    position: absolute;
+    top: 2250px;
+    left: 310px;
+}
+.frame-1{
+    margin-left: 490px;
+    margin-top: 295px;
+}
+.frame-2{
+    position: absolute;
+    left: 60px;
+}
+.blue{
+    margin-left: 50px;
+    margin-top: 120px;
+}
+
+.blue h1 p{
+    margin-left: 2700px;
+}
+
+
+.body-content-2 h1 {
+    position: absolute;
+    left:800px;
+    top: 2180px;
+    font-size: 40px;
+}
+.body-content-2 p1{
+    position: absolute;
+    left: 800px;
+    top: 2300px;
+}
+
+.beneath-text h4{
+    margin-top: 25px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.beneath-text p{
+    margin-top: 25px;
+    line-height: 10px;
+    text-align: center;
+    color: rgba(117, 117, 117, 1)
+}
+
+
+
+.body-container-3{
+    margin-left: 100px;
+    margin-top: 100px;
+    /* display: flex; */
+}
+.snap-1{
+    margin-left: 270px;
+    margin-top: -80px;
+}
+.snap-2{
+    margin-top: 120px;
+    margin-left: 20px;
+}
+.snap-3{
+    position: absolute;
+    top: 2630px;
+
+}
+.content-text-heading{
+    margin-left: 20px;
+}
+.content-text-heading h1{
+    font-size: 30px;
+    line-height: 60px;
+}
+
+.dots{
+    margin-top: 30px;
+}
+.small-dots{
+    gap: 3rem;
+    display: flex;
+}
+
+.circle-photo{
+    width: 184px;
+    height: 184px;
+    margin-left: 100px;
+}
+
+.group-pic-photo{
+    position: absolute;
+    top: 2620px;
+    left: 990px;
+}
+
+
+
+
+
+
+.big-heading-rectangle{
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+.big-heading-group{
+    margin-bottom: 300px;
+    margin-left: 700px;
+}
+.flat-image{
+    position: absolute;
+    top: 3100px;
+    left: 140px;
+}
+
+.flat-text{
+    position: absolute;
+    top: 3200px;
+    left: 220px;
+    font-size: 20px;
+    line-height: 60px;
+}
+
+.blue-image{
+    position: absolute;
+    top: 3100px;
+    left: 850px;
+}
+
+.button_download {
+    top: 3200px;
+    left: 750px;
+    position: absolute;
+    background-color: rgba(241, 241, 241, 1);
+    border-radius: 30px;
+    font-size: 18px;
+    color: white;
+    width: 455px;
+    height: 70px;
+
+}
+.button_download h3{
+    font-size:16px;
+    margin-top: 25px;
+    margin-left: 30px;
+    color:  rgba(149, 149, 149, 1);
+}
+.button_contact {
+    position: absolute;
+    background-color: blue;
+    border-radius: 30px;
+    font-size: 18px;
+    color: white;
+    width: 175px;
+    height: 50px;
+    top: 3210px;
+    left: 1000px;
+
+}
+.button_contact h3{
+    margin-top: 13px;
+    margin-left: 30px;
+}
+
+
+.last-area{
+    display: flex;
+}
+
+.line{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.sign {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.bottom-text p{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.second-text h1{
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+.second-text p{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.third-text h1{
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+.third-text p{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.forth-text h1{
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+.forth-text p{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+
+.fifth-text h1{
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+.fifth-text p{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.small-icon{
+    display: flex;
+    gap: rem;
+}
+
+.icons{
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+
+.icon-2{
+    margin-top: 100px;
+    margin-left: 20px;
+
+}
+
+.icon-3{
+    margin-top: 100px;
+    margin-left: 20px;
+
+}
+.line-2{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.line-2 p{
+    margin-left: 500px;
+    color: rgba(164, 164, 164, 1);
+}
